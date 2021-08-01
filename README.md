@@ -2,4 +2,12 @@
 
 Will be adding Design Patterns regularly here in this repo.
 
-1. Factory
+```Python Version : 3.9```
+
+- [x] Factory
+- [ ] Builder
+- [ ] Adapter
+- [ ] Singleton
+- [ ] Command
+- [ ] Decorator
+
