@@ -2,7 +2,7 @@ from factory.chair import Chair
 from factory.i_chair import IChair
 
 
-class SmallChair(Chair, IChair):
+class SmallChair(Chair):
 
     def __init__(self) -> None:
         """

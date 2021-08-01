@@ -2,7 +2,7 @@ from factory.chair import Chair
 from factory.i_chair import IChair
 
 
-class BigChair(Chair, IChair):
+class BigChair(Chair):
     """
             Big Chair Concrete class implements IChair Interface
     """
