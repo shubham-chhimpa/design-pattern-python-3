@@ -11,3 +11,8 @@ Will be adding Design Patterns regularly here in this repo.
 - [ ] Command
 - [ ] Decorator
 
+# UML Diagrams
+
+<img src="./diagrams/factory.png"/>
+
+
