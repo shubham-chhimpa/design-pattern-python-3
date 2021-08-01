@@ -5,7 +5,7 @@ Will be adding Design Patterns regularly here in this repo.
 ```Python Version : 3.9```
 
 - [x] Factory
-- [ ] Builder
+- [x] Builder
 - [ ] Adapter
 - [ ] Singleton
 - [ ] Command
@@ -14,5 +14,6 @@ Will be adding Design Patterns regularly here in this repo.
 # UML Diagrams
 
 <img src="./diagrams/factory.png"/>
+<img src="./diagrams/builder.png"/>
 
 
